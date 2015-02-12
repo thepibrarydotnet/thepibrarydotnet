@@ -1,0 +1,447 @@
+
+
+@media (min-width: 480px) { 
+	a.logo {
+		margin-top: 8%;
+	}
+
+	.home-content {
+		margin-top: 5%;
+	}
+
+	.home-content .titles  {
+		margin-bottom: 7%;
+	}
+
+	.countdown-col {
+		width: 25%;
+		margin-bottom: 0;
+	}
+
+	.countdown-col:nth-child(3) {
+		border-left: 1px solid rgba(255,255,255,0.3);
+	}
+
+	.dash_title {
+		margin-right: 25px;
+	}
+ }
+ 
+@media (min-width: 600px) {
+
+	.btn {
+		font-size: 16px;
+	}
+
+	.subscribe-btn {
+		padding: 12px 25px;
+        border-radius: 0px 4px 4px 0px;
+        -moz-border-radius: 0px 4px 4px 0px;
+        -webkit-border-radius: 0px 4px 4px 0x;
+	}
+
+	h1 {
+		font-size: 46px;
+	}
+
+	a.logo {
+		margin-top: 15%;
+	}
+
+	.home-content {
+		margin-top: 12%;
+	}
+
+	.home-content .titles {
+		margin-bottom: 10%;
+	}
+
+	.home-content .titles hr {
+		display: block;
+		margin: 25px auto;
+	}
+
+	.home-content p {
+		display: block;
+		font-size: 15px;
+	}
+
+	.countdown-col {
+		width: 50%;
+		margin-bottom: 8%;
+	}
+
+	.countdown-col:nth-child(3) {
+		border-left: 1px solid transparent;
+	}
+
+	.digit {
+		font-size: 86px;
+		height: 100px;
+		line-height: 100px;
+	}
+
+	.dash_title {
+		margin-right: 100px;
+	}
+
+	.input-group {
+		display: table;
+	}
+
+	.form-control {
+		height: 48px;
+		border-bottom-right-radius: 0;
+		border-top-right-radius: 0;
+		border-right: 1px solid #F56D45;
+	}
+
+	.input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group {
+		margin-left: -1px;
+		margin-top: 0px;
+		width: auto;
+	}
+
+	.back-to-top {
+		visibility: visible;
+	}
+
+}
+
+@media (min-width: 640px) { 
+
+	h1 {
+		font-size: 34px;
+	}
+
+	a.logo {
+		margin-top: 6%;
+	}
+
+	.home-content {
+		margin-top: 5%;
+	}
+
+	.home-content .titles {
+		margin-bottom: 6%;
+	}
+	.home-content .titles hr {
+		display: none;
+	}
+
+	.home-content p {
+		display: none;
+	}
+
+	.countdown-col {
+		width: 25%;
+		margin-bottom: 0;
+	}
+
+	.countdown-col:nth-child(3) {
+		border-left: 1px solid rgba(255,255,255,0.3);
+	}
+
+     .digit {
+        color: #fff;
+        font-size: 54px;
+        font-weight: 100;
+        display: inline-block;
+        overflow: hidden;
+        text-align: center;
+        height: 74px;
+        line-height: 74px;
+        position: relative;
+        vertical-align: middle;
+        text-shadow: 0 2px 2px rgba(0, 0, 0, 0.6);
+}
+
+	.dash_title {
+        font-size: 14px;
+        width: 100%;
+        color: #fff;
+        display: block;
+        clear: both;
+        text-shadow: 0 2px 2px rgba(0, 0, 0, 0.6);
+        float: right;
+        text-align: right;
+		margin-right: 40px;
+	}
+
+
+ }
+
+
+@media (min-width: 768px) {
+
+	h1 {
+		font-size: 48px;
+	}
+
+	a.logo {
+		margin-top: 15%;
+	}
+
+	.home-content {
+		margin-top: 12%;
+	}
+
+	.home-content .titles {
+		margin-bottom: 20%;
+	}
+
+	.home-content .titles hr {
+		display: block;
+		margin: 30px auto;
+	}
+
+	.home-content p {
+		display: block;
+		font-size: 15px;
+	}
+
+	.countdown-col {
+		width: 50%;
+		margin-bottom: 8%;
+	}
+
+	.countdown-col:nth-child(3) {
+		border-left: 1px solid transparent;
+	}
+
+	.digit {
+		font-size: 100px;
+		height: 120px;
+		line-height: 120px;
+	}
+
+	.dash_title {
+		font-size: 16px;
+		margin-right: 140px;
+	}
+
+	.title-section h2 {
+		font-size: 36px;
+	}
+
+	.title-section h3 {
+		font-size: 18px;
+	}
+
+	span.about-icon {
+		font-size: 38px;
+	}
+
+	#subscribe-section .title-section {
+		margin-bottom: 60px;
+	}
+
+	#subscribe-section .title-section h2 {
+		font-size: 36px;
+	}
+
+	.subscribe-btn {
+		font-size: 17px;
+		padding: 13px 30px;
+	}
+
+	.form-control {
+		height: 52px;
+	}
+
+	.col-staff {
+		width: 50%;
+		float: left;
+		display: inline-block;
+	}
+
+
+ }
+
+ @media (min-width: 800px) {
+
+ 	a.logo {
+ 		margin-top: 10%;
+ 	}
+
+ 	.home-content {
+ 		margin-top: 8%;
+ 	}
+
+ 	.home-content .titles {
+ 		margin-bottom: 8%;
+ 	}
+
+ 	.home-content .titles hr {
+ 		margin: 25px auto
+ 	}
+
+ 	.countdown-col {
+ 		width: 25%;
+ 		margin-bottom: 0;
+ 	}
+
+ 	.countdown-col:nth-child(3) {
+ 		border-left: 1px solid rgba(255,255,255,0.3);
+ 	}
+
+ 	.digit {
+ 		font-size: 80px;
+ 		height: 100px;
+ 		line-height: 100px;
+ 	}
+
+ 	.dash_title {
+ 		margin-right: 45px;
+ 	}
+ }
+
+/* Medium devices (desktops, 1024px and up) */
+@media (min-width: 1024px) { 
+
+	h1 {
+		font-size: 48px;
+	}
+
+	.home-content p {
+		font-size: 16px;
+	}
+
+	.col-staff {
+		width: 25%;
+		float: left;
+		display: inline-block;
+		margin-bottom: 0px;
+	}
+
+	.digit {
+		font-size: 120px;
+		height: 130px;
+		line-height: 130px;
+	}
+
+	#subscribe-section .title-section {
+		text-align: center;
+	}
+
+	#subscribe-section .title-section p {
+		width: 80%;
+		margin: 0 auto;
+	}
+
+	#subscribe-section .title-section h2 {
+		font-size: 38px;
+		margin: 0px 0px 25px
+	}
+
+ }
+
+
+@media (min-width: 1200px) { 
+
+	a.logo {
+		margin-top: 8%;
+	}
+
+	.home-content {
+		margin-top: 6%;
+	}
+
+	.dash_title {
+		margin-right: 60px;
+	}
+ }
+
+
+ @media (min-width: 1600px) { 
+
+ 	.btn {
+ 		font-size: 18px;
+ 	}
+
+ 	h1 {
+		font-size: 52px;
+	}
+
+ 	.home-content {
+ 		width: 100%;
+ 	}
+
+ 	.home-content {
+ 		margin-top: 8%;
+ 	}
+
+ 	.home-content .titles {
+ 		margin-bottom: 12%;
+ 	}
+
+ 	.digit {
+ 		font-size: 140px;
+ 		line-height: 160px;
+ 		height: 160px;
+ 	}
+
+ 	#subscribe-section .title-section p {
+ 		font-size: 16px;
+ 	}
+
+ 	.form-control {
+ 		height: 51px;
+ 	}
+
+ }
+ 
+
+  /* ==================================================================
+  =Bootstrap fix for WinPhone 8 and IE10 
+================================================================== */
+
+    @-webkit-viewport{width:device-width}
+    @-moz-viewport{width:device-width}
+    @-ms-viewport{width:device-width}
+    @-o-viewport{width:device-width}
+    @viewport{width:device-width}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
