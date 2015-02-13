@@ -41,7 +41,7 @@ jQuery.noConflict();
     =============================================== */
 
     $(document).ready(function(){
-        $("#home-section").backstretch("images/temp/1.jpg");
+        $("#home-section").backstretch("images/background/1.jpg");
 
         });
 
